@@ -67,3 +67,5 @@ We utilize several benchmark datasets for training and evaluation:
 To train a model, use the following command:
 ```bash
 python train.py --dataset ModelNet40 --model PointNet --epochs 100
+
+You can now copy and paste this entire block into your `README.md` file.
